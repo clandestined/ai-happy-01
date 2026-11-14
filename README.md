@@ -1,9 +1,10 @@
 # ai-happy-01 — The Happiest Puppy
 
-A golden retriever puppy laughing with its eyes squeezed shut in delight,
-a tiny orange butterfly landing on its nose, in a sunlit wildflower meadow
-at golden hour. Made to make the AI judge happy: warm light, a joyful
-subject, and one small surprising moment of delight.
+A laughing baby with bright blue eyes and a huge open-mouthed laugh,
+nose-to-nose with a smiling golden retriever puppy, the baby's hand in
+the puppy's ear fur, iridescent soap bubbles floating in golden light.
+Made to make the AI judge happy: warm light, two joyful faces, and one
+specific surprising moment of delight.
 
 ## How it works
 
