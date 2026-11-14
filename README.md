@@ -8,10 +8,10 @@ puppy's nose and another on the toddler's cheek. Iridescent soap bubbles
 float in warm golden light. Made to make the AI judge happy: two joyful
 faces front-on, one fresh specific moment of shared delight, and a bright
 pink cone that anchors the image even at small size. It replaces the
-earlier ice-cream image: in that one neither subject was actually licking
-the cone and the toddler's gaze was off-camera; here the shared lick is
-real, both eyes meet the camera, and the square 1024x1024 framing makes
-the faces and the cone read bigger at 300 pixels across.
+earlier ice-cream image: in that one the toddler's tongue was long, wide
+and drooping (the image's most exaggerated feature) and the puppy's tongue
+lolled just as long; here both tongues are short and natural, clearly
+licking the same scoop, with the same laughs, eye contact and framing.
 
 ## How it works
 
@@ -29,6 +29,6 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 
 - `main.py` — the entry program
 - `entry.png` — the image (1024x1024 JPEG bytes in a file named `entry.png`,
-  245,270 bytes, under the 1 MiB limit; the rules allow JPEG data under
+  265,145 bytes, under the 1 MiB limit; the rules allow JPEG data under
   this name)
 - `LICENSE` — MIT
